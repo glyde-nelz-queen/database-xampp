@@ -14,7 +14,7 @@ echo "         ██ ██  ██   ██ ████  ████ ██ 
 echo "          ███   ███████ ██ ████ ██ ██████  ██████  "
 echo "         ██ ██  ██   ██ ██  ██  ██ ██      ██      "
 echo "        ██   ██ ██   ██ ██      ██ ██      ██      "
-echo -e "                      ${cy} •pro• Jade poisk-ls "
+echo -e "                      ${cy} inspires by Glyza "
 echo
 echo -e "${yl}    ) --------------- ${gr}Start${yl} --------------- ("
 echo -e "${yl}  ) --------------- ${gr}Your Own${yl} --------------- ("
@@ -29,7 +29,7 @@ banner
 
 cat << EOF
 
-[*] XAMPP: Start Your Own Server with XAMPP in Android...
+[*] Database XAMPP: Start Your Own Server with XAMPP in Android...
 
 usage: xampp [argss]
 
