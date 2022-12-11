@@ -1,8 +1,4 @@
-<!-- Database XAMPP: For Terminal --->
-
-
-# XAMPP
-XAMPP is a begginer friendly server for android which host(s) localhost(s) on android devices. <b>New feature for LINUX available after some time (Working on it!).</b> You can use this tool to start local server on android. After successfully executing tool, Just open <b>localhost:8080</b> to see your web page which is hosted on local server. 
+### Database XAMPP
 
 ## Features
 - Begginer Friendly
