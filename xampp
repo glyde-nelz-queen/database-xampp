@@ -14,7 +14,7 @@ echo "         ██ ██  ██   ██ ████  ████ ██ 
 echo "          ███   ███████ ██ ████ ██ ██████  ██████  "
 echo "         ██ ██  ██   ██ ██  ██  ██ ██      ██      "
 echo "        ██   ██ ██   ██ ██      ██ ██      ██      "
-echo -e "                      ${cy} inspires by Glyza "
+echo -e "                      ${cy} inspired by: Glyza "
 echo
 echo -e "${yl}    ) --------------- ${gr}Start${yl} --------------- ("
 echo -e "${yl}  ) --------------- ${gr}Your Own${yl} --------------- ("
